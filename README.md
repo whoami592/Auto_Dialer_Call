@@ -6,6 +6,8 @@ Observation This is a tool for education only, I am not responsible for any misu
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=25FF74&background=000000F0&width=750&lines=Root%3A-Observation+This+is+a+tool+for+education+only%2C+I+am+not;Root%3A-responsible+for+any+mis+use" alt="Typing SVG" /></a>
 ![WhatsApp Image 2025-06-19 at 9 15 28 PM](https://github.com/user-attachments/assets/7caa18ed-116a-4bbe-8404-03317097d881)
 
+![ethical_hacker_badge_animation](https://github.com/user-attachments/assets/9e82996b-c30f-4e5e-b7c3-5b1f88ed11cb)
+
 
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=PAKISTANI+ETHICAL+HACKER;MR+SABAZ+ALI+KHAN;" alt="Typing SVG" />
 </h1>
@@ -19,3 +21,4 @@ Observation This is a tool for education only, I am not responsible for any misu
 ```bash
 ┌──(root💀kali)-[~]
 └─# echo "Welcome to MR SABAZ ALI KHAN's Cyber Space"
+
